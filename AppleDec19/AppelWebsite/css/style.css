@@ -1,0 +1,22 @@
+* {margin:0;
+  padding 0;
+}
+img {
+	max-width: 100%;
+}
+body {
+	font-size: 20px; 
+	font-family: 'Montserrat', sans-serif;
+}
+/* Header Style */
+.header-wrapper {
+	background: black; 
+	color: #fff;
+	font-weight: 200;
+	font-size: 0.75em;	
+}
+.header-wrapper ul {
+	display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
